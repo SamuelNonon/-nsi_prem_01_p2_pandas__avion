@@ -105,6 +105,7 @@
 
 Il y a eu un manque de coordination entre les différents membres du groupe, ce qui a malheuresement mis de côté une partie du travail. Il y a eu quelques difficultés sur le code python au départ mais désormais tout les légers bugs sont corrigés. Il ne reste que l'interface graphique à faire. 
 
+*Auteur :* Lucas Guillen et Quentin Henri 1-01 
 
     
 
