@@ -101,11 +101,13 @@
 - Filtre "Age" en fonction "En general, est-il impoli d'amener un bébé en avion" 
   - On souhaite savoir si l'age des passagers à un impact sur la compréhension d'amener un enfant en avion.
 
+##
+
 ### Difficultés rencontrées lors du projet : 
 
 Il y a eu un manque de coordination entre les différents membres du groupe, ce qui a malheuresement mis de côté une partie du travail. Il y a eu quelques difficultés sur le code python au départ mais désormais tout les légers bugs sont corrigés. Il ne reste que l'interface graphique à faire. 
 
-*Auteur :* Lucas Guillen et Quentin Henri 1-01 
+*Auteurs :* Lucas Guillen et Quentin Henri 1-01 
 
     
 
