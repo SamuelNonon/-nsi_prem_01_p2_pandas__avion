@@ -1,0 +1,100 @@
+Numero identification ,Frequence utilisation avion ?,Quelle taille mesurez-vous?,Qui devrait avoir le controle du hublot ?,Est-il imprudent de s'installer sur des sieges invendus dans les avions ?,Est-il impoli de parler dans une conversation a l'etranger a cote de vous ?,Est-il impoli d'incliner votre siege dans un avion ?,Est-il impoli de reveiller un passager si vous essayez d'aller aux toilettes ?,En general  est-il impoli d'amener un bebe dans un avion ?,Have you ever used personal electronics during take off or landing in violation of a flight attendant's direction ?,Genre ,Age ,Revenu du menage ,Diplome ,Emplacement (region de recensement)
+3436139758,Once a year or less,,,,,,,,,,,,,
+3434278696,Once a year or less,"6'3""",Everyone in the row should have some say,No  not rude at all,No  not at all rude,Yes  somewhat rude,No  not at all rude,No  not at all rude,No,Male,30,90000,Graduate degree,Pacific
+3434275578,Once a year or less,"5'8""",The person in the window seat should have exclusive control,No  not rude at all,No  not at all rude,No  not rude at all,No  not at all rude,Yes  somewhat rude,No,Male,35,125000,Bachelor degree,Pacific
+3434268208,Once a year or less,"5'11""",Everyone in the row should have some say,No  not rude at all,No  not at all rude,No  not rude at all,No  not at all rude,Yes  somewhat rude,No,Male,41,17000,Bachelor degree,Pacific
+3434250245,Once a month or less,"5'7""",Everyone in the row should have some say,No  not rude at all,No  not at all rude,No  not rude at all,Yes  somewhat rude,Yes  somewhat rude,Yes,Male,38,15000,Bachelor degree,Pacific
+3434245875,Once a year or less,"5'9""",The person in the window seat should have exclusive control,Yes  somewhat rude,No  not at all rude,No  not rude at all,Yes  somewhat rude,Yes  very rude,No,Male,37,35000,Graduate degree,East North Central
+3434235351,Once a month or less,"6'2""",Everyone in the row should have some say,No  not rude at all,Yes  somewhat rude,Yes  somewhat rude,No  not at all rude,No  not at all rude,No,Male,32,150000,Some college or Associate degree,Pacific
+3434218031,Once a year or less,"6'0""",The person in the window seat should have exclusive control,No  not rude at all,No  not at all rude,No  not rude at all,No  not at all rude,Yes  somewhat rude,No,Male,36,12500,Bachelor degree,New England
+3434213681,Once a year or less,"6'0""",The person in the window seat should have exclusive control,No  not rude at all,No  not at all rude,No  not rude at all,,,,,41,,,
+3434172894,Once a year or less,"5'6""",Everyone in the row should have some say,Yes  very rude,Yes  very rude,Yes  very rude,Yes  very rude,Yes  very rude,No,Male,40,17500,Bachelor degree,Pacific
+3434165659,Once a month or less,"6'0""",Everyone in the row should have some say,Yes  very rude,No  not at all rude,No  not rude at all,Yes  somewhat rude,Yes  somewhat rude,No,Male,40,75000,High school degree,Mountain
+3434164339,Once a year or less,,,,,,,,,,,,,
+3434161941,Once a year or less,"5'7""",The person in the window seat should have exclusive control,Yes  somewhat rude,Yes  somewhat rude,No  not rude at all,,,,,,,,
+3434155493,Never,,,,,,,,,Male,39,125000,Some college or Associate degree,Pacific
+3434132453,Never,,,,,,,,,Male,19,100000,High school degree,South Atlantic
+3434131535,Once a year or less,"6'0""",Everyone in the row should have some say,No  not rude at all,Yes  somewhat rude,Yes  somewhat rude,No  not at all rude,Yes  somewhat rude,No,Male,20,150000,Some college or Associate degree,East South Central
+3434125180,A few times per week,,,,,,,,,,,,,
+3434122066,Once a year or less,"5'8""",Everyone in the row should have some say,No  not rude at all,No  not at all rude,No  not rude at all,Yes  somewhat rude,No  not at all rude,No,Male,31,125000,Some college or Associate degree,Middle Atlantic
+3434114105,Once a year or less,"6'1""",The person in the window seat should have exclusive control,No  not rude at all,No  not at all rude,Yes  somewhat rude,No  not at all rude,No  not at all rude,Yes,Male,32,150000,Bachelor degree,West North Central
+3434109246,Once a year or less,,,,,,,,,,,,,
+3434107997,Once a year or less,"5'10""",Everyone in the row should have some say,No  not rude at all,No  not at all rude,Yes  very rude,No  not at all rude,No  not at all rude,No,Male,21,35000,Bachelor degree,South Atlantic
+3434100967,Once a year or less,"5'7""",The person in the window seat should have exclusive control,No  not rude at all,No  not at all rude,No  not rude at all,No  not at all rude,No  not at all rude,No,Male,33,17500,Bachelor degree,East North Central
+3434087928,Never,,,,,,,,,Male,22,75000,Bachelor degree,East North Central
+3434084098,Never,,,,,,,,,Male,23,12500,Some college or Associate degree,East North Central
+3434071488,Never,,,,,,,,,Male,24,75000,Bachelor degree,Pacific
+3434061256,Never,,,,,,,,,Male,33,,High school degree,Middle Atlantic
+3434059758,Never,,,,,,,,,Male,28,75000,Bachelor degree,Pacific
+3434052290,Once a year or less,"6'0""",Everyone in the row should have some say,No  not rude at all,No  not at all rude,No  not rude at all,No  not at all rude,No  not at all rude,No,Male,44,40000,Bachelor degree,East North Central
+3434049700,Once a year or less,"6'2""",Everyone in the row should have some say,No  not rude at all,No  not at all rude,No  not rude at all,No  not at all rude,Yes  somewhat rude,Yes,Male,19,75000,Some college or Associate degree,West South Central
+3434041278,Once a year or less,"5'6""",The person in the window seat should have exclusive control,Yes  somewhat rude,No  not at all rude,No  not rude at all,No  not at all rude,Yes  somewhat rude,No,Male,38,150000,Some college or Associate degree,Pacific
+3434033301,Once a year or less,"5'11""",The person in the window seat should have exclusive control,Yes  somewhat rude,No  not at all rude,Yes  somewhat rude,Yes  very rude,Yes  somewhat rude,No,Male,25,,Bachelor degree,Middle Atlantic
+3434024435,Once a year or less,"5'10""",The person in the window seat should have exclusive control,No  not rude at all,Yes  very rude,Yes  somewhat rude,No  not at all rude,Yes  very rude,No,Male,39,75000,Some college or Associate degree,South Atlantic
+3434018106,A few times per week,,,,,,,,,,,,,
+3434016416,Once a year or less,"6'2""",Everyone in the row should have some say,Yes  somewhat rude,No  not at all rude,No  not rude at all,No  not at all rude,No  not at all rude,No,Male,34,75000,Bachelor degree,West South Central
+3434013636,Every day,"5'7""",The person in the window seat should have exclusive control,Yes  somewhat rude,Yes  somewhat rude,Yes  very rude,Yes  somewhat rude,Yes  very rude,Yes,Male,22,17500,Some college or Associate degree,Pacific
+3434009177,Once a year or less,"5'10""",Everyone in the row should have some say,No  not rude at all,No  not at all rude,Yes  very rude,Yes  somewhat rude,No  not at all rude,No,Male,25,75000,Some college or Associate degree,Pacific
+3434003204,Once a year or less,"6'0""",Everyone in the row should have some say,No  not rude at all,No  not at all rude,No  not rude at all,Yes  somewhat rude,Yes  somewhat rude,No,Male,24,17500,Bachelor degree,Pacific
+3434003093,Once a year or less,"5'11""",Everyone in the row should have some say,Yes  somewhat rude,No  not at all rude,Yes  somewhat rude,No  not at all rude,No  not at all rude,No,Male,26,35000,Some college or Associate degree,Pacific
+3433976285,Never,,,,,,,,,Male,28,,High school degree,South Atlantic
+3433973110,Never,,,,,,,,,Male,34,35000,Some college or Associate degree,West South Central
+3433964953,Once a year or less,"5'5""",The person in the window seat should have exclusive control,Yes  somewhat rude,No  not at all rude,Yes  somewhat rude,No  not at all rude,Yes  somewhat rude,No,Male,26,15000,High school degree,Pacific
+3433964124,Once a year or less,"6'0""",The person in the window seat should have exclusive control,No  not rude at all,Yes  somewhat rude,No  not rude at all,No  not at all rude,No  not at all rude,No,Male,38,,Bachelor degree,New England
+3433957540,Once a year or less,"5'7""",Everyone in the row should have some say,No  not rude at all,No  not at all rude,Yes  somewhat rude,No  not at all rude,No  not at all rude,Yes,Male,27,37500,Bachelor degree,Pacific
+3433954490,Never,,,,,,,,,Male,22,35000,Some college or Associate degree,East South Central
+3433928804,Once a year or less,"5'7""",Everyone in the row should have some say,No  not rude at all,Yes  somewhat rude,Yes  very rude,Yes  somewhat rude,No  not at all rude,No,Male,21,150000,Bachelor degree,South Atlantic
+3433926438,A few times per month,"6'2""",Everyone in the row should have some say,No  not rude at all,No  not at all rude,No  not rude at all,No  not at all rude,No  not at all rude,No,Male,26,,Graduate degree,South Atlantic
+3433914630,Once a year or less,"6'4""",The person in the window seat should have exclusive control,No  not rude at all,Yes  somewhat rude,Yes  somewhat rude,Yes  somewhat rude,Yes  somewhat rude,No,Male,36,12500,Bachelor degree,Mountain
+3433912503,Once a year or less,"6'0""",Everyone in the row should have some say,No  not rude at all,Yes  somewhat rude,No  not rude at all,No  not at all rude,Yes  somewhat rude,No,Male,19,12500,Some college or Associate degree,East North Central
+3433895905,Once a year or less,"5'10""",The person in the window seat should have exclusive control,No  not rude at all,Yes  somewhat rude,No  not rude at all,Yes  somewhat rude,No  not at all rude,No,Male,31,75000,Some college or Associate degree,South Atlantic
+3433890093,Once a year or less,"6'0""",The person in the window seat should have exclusive control,No  not rude at all,No  not at all rude,No  not rude at all,No  not at all rude,No  not at all rude,Yes,Male,26,12500,Bachelor degree,Pacific
+3433882884,Never,,,,,,,,,Male,30,12500,Some college or Associate degree,East North Central
+3433881615,A few times per month,"5'7""",Everyone in the row should have some say,No  not rude at all,No  not at all rude,No  not rude at all,No  not at all rude,No  not at all rude,No,Male,18,12500,Some college or Associate degree,West North Central
+3433880747,Once a year or less,"5'9""",Everyone in the row should have some say,No  not rude at all,No  not at all rude,No  not rude at all,No  not at all rude,No  not at all rude,No,Male,19,12500,Some college or Associate degree,Mountain
+3433877510,Once a year or less,"6'1""",The person in the window seat should have exclusive control,No  not rude at all,No  not at all rude,Yes  very rude,No  not at all rude,Yes  somewhat rude,Yes,Male,44,,Graduate degree,East North Central
+3433877337,Once a month or less,"6'2""",The person in the window seat should have exclusive control,No  not rude at all,No  not at all rude,Yes  somewhat rude,No  not at all rude,No  not at all rude,No,Male,30,75000,Bachelor degree,East North Central
+3433873724,Once a month or less,"5'11""",Everyone in the row should have some say,Yes  somewhat rude,No  not at all rude,No  not rude at all,Yes  somewhat rude,No  not at all rude,No,Male,18,35000,Bachelor degree,Pacific
+3433863512,Once a month or less,"6'6"" and above",The person in the window seat should have exclusive control,No  not rude at all,No  not at all rude,No  not rude at all,No  not at all rude,No  not at all rude,Yes,Male,44,,Graduate degree,Pacific
+3433853098,Once a year or less,"5'10""",Everyone in the row should have some say,Yes  somewhat rude,Yes  somewhat rude,Yes  somewhat rude,Yes  somewhat rude,Yes  somewhat rude,No,Male,39,75000,Graduate degree,West South Central
+3433847365,Once a year or less,"6'1""",Everyone in the row should have some say,No  not rude at all,No  not at all rude,No  not rude at all,No  not at all rude,No  not at all rude,No,Male,40,75000,Bachelor degree,New England
+3433842253,Once a year or less,"5'10""",The person in the window seat should have exclusive control,No  not rude at all,Yes  somewhat rude,Yes  very rude,No  not at all rude,Yes  somewhat rude,Yes,Male,41,150000,Graduate degree,South Atlantic
+3433809714,Once a year or less,"6'0""",The person in the window seat should have exclusive control,No  not rude at all,No  not at all rude,Yes  somewhat rude,No  not at all rude,No  not at all rude,No,Male,19,150000,Bachelor degree,East North Central
+3433791959,Once a month or less,"6'2""",Everyone in the row should have some say,No  not rude at all,No  not at all rude,No  not rude at all,No  not at all rude,No  not at all rude,Yes,Male,43,125000,Graduate degree,Pacific
+3433766902,Once a month or less,"5'8""",The person in the window seat should have exclusive control,No  not rude at all,No  not at all rude,Yes  somewhat rude,Yes  somewhat rude,No  not at all rude,No,Male,25,125000,Some college or Associate degree,Pacific
+3433704267,Once a year or less,"5'9""",The person in the window seat should have exclusive control,Yes  somewhat rude,Yes  somewhat rude,No  not rude at all,,,,,,,,
+3433702768,Once a year or less,"5'7""",Everyone in the row should have some say,Yes  somewhat rude,Yes  somewhat rude,Yes  somewhat rude,No  not at all rude,No  not at all rude,No,Male,36,12500,Bachelor degree,Middle Atlantic
+3433696677,Once a year or less,"5'9""",The person in the window seat should have exclusive control,No  not rude at all,No  not at all rude,No  not rude at all,No  not at all rude,No  not at all rude,No,Male,35,75000,Bachelor degree,South Atlantic
+3433682046,Once a year or less,"5'9""",The person in the window seat should have exclusive control,No  not rude at all,No  not at all rude,No  not rude at all,No  not at all rude,No  not at all rude,No,Male,34,125000,High school degree,Pacific
+3433675127,Once a year or less,"6'4""",Everyone in the row should have some say,No  not rude at all,No  not at all rude,No  not rude at all,Yes  somewhat rude,Yes  somewhat rude,Yes,Male,32,75000,Some college or Associate degree,West South Central
+3433674615,Once a month or less,"5'9""",Everyone in the row should have some say,No  not rude at all,No  not at all rude,No  not rude at all,No  not at all rude,Yes  somewhat rude,No,Male,33,125000,Graduate degree,East North Central
+3433674116,Once a year or less,"5'10""",Everyone in the row should have some say,No  not rude at all,No  not at all rude,Yes  somewhat rude,Yes  somewhat rude,No  not at all rude,No,Male,19,15000,Bachelor degree,East North Central
+3433673902,Once a year or less,Under 5 ft.,Everyone in the row should have some say,No  not rude at all,Yes  somewhat rude,Yes  somewhat rude,Yes  somewhat rude,Yes  very rude,No,Male,25,35000,Less than high school degree,South Atlantic
+3433669889,Never,,,,,,,,,Male,24,12500,Some college or Associate degree,East South Central
+3433547088,Never,,,,,,,,,Male,19,150000,Some college or Associate degree,Mountain
+3433546426,Once a month or less,"5'7""",Everyone in the row should have some say,No  not rude at all,No  not at all rude,No  not rude at all,Yes  somewhat rude,No  not at all rude,No,Male,32,125000,Graduate degree,West North Central
+3433532135,Once a year or less,"6'4""",The person in the window seat should have exclusive control,No  not rude at all,No  not at all rude,Yes  somewhat rude,Yes  somewhat rude,Yes  somewhat rude,No,Male,39,12500,Bachelor degree,East North Central
+3433529889,Never,,,,,,,,,Male,26,35000,Some college or Associate degree,Pacific
+3433508090,Once a year or less,"5'8""",The person in the window seat should have exclusive control,No  not rude at all,No  not at all rude,No  not rude at all,No  not at all rude,No  not at all rude,No,Male,22,35000,Some college or Associate degree,Pacific
+3433505616,Once a year or less,"5'7""",Everyone in the row should have some say,No  not rude at all,No  not at all rude,Yes  somewhat rude,No  not at all rude,No  not at all rude,No,Male,34,125000,Bachelor degree,Middle Atlantic
+3433498776,Once a year or less,"5'11""",Everyone in the row should have some say,No  not rude at all,No  not at all rude,No  not rude at all,No  not at all rude,Yes  somewhat rude,No,Male,36,125000,High school degree,South Atlantic
+3433491130,Once a year or less,"5'6""",The person in the window seat should have exclusive control,No  not rude at all,No  not at all rude,No  not rude at all,No  not at all rude,Yes  somewhat rude,Yes,Male,19,12500,High school degree,West South Central
+3433481077,Once a year or less,"5'9""",The person in the window seat should have exclusive control,Yes  somewhat rude,Yes  somewhat rude,Yes  somewhat rude,Yes  very rude,Yes  somewhat rude,Yes,Male,35,,High school degree,Middle Atlantic
+3433469104,Once a year or less,"5'9""",The person in the window seat should have exclusive control,No  not rude at all,No  not at all rude,No  not rude at all,Yes  somewhat rude,No  not at all rude,No,Male,22,125000,Bachelor degree,West South Central
+3433455019,Once a year or less,"6'2""",The person in the window seat should have exclusive control,No  not rude at all,No  not at all rude,No  not rude at all,No  not at all rude,No  not at all rude,Yes,Male,38,35000,Bachelor degree,East North Central
+3433451973,Once a year or less,"6'0""",The person in the window seat should have exclusive control,Yes  somewhat rude,Yes  very rude,Yes  very rude,No  not at all rude,Yes  somewhat rude,No,Male,37,125000,Some college or Associate degree,West South Central
+3433444761,Once a month or less,"5'11""",The person in the window seat should have exclusive control,No  not rude at all,No  not at all rude,No  not rude at all,No  not at all rude,Yes  somewhat rude,No,Male,37,,Bachelor degree,Pacific
+3433443270,Once a month or less,"5'8""",The person in the window seat should have exclusive control,No  not rude at all,No  not at all rude,Yes  somewhat rude,No  not at all rude,No  not at all rude,Yes,Male,37,,Bachelor degree,Pacific
+3433421347,Once a year or less,"6'2""",The person in the window seat should have exclusive control,No  not rude at all,No  not at all rude,No  not rude at all,Yes  somewhat rude,Yes  somewhat rude,No,Male,34,75000,Graduate degree,Pacific
+3433413347,Never,,,,,,,,,Male,55,,Bachelor degree,South Atlantic
+3433408077,Never,,,,,,,,,Male,24,,Some college or Associate degree,South Atlantic
+3433405051,Once a year or less,"6'1""",The person in the window seat should have exclusive control,No  not rude at all,No  not at all rude,Yes  somewhat rude,No  not at all rude,Yes  very rude,No,Male,60,75000,Graduate degree,West South Central
+3433400808,Never,,,,,,,,,Male,45,75000,Some college or Associate degree,Middle Atlantic
+3433400150,Never,,,,,,,,,Male,30,75000,Bachelor degree,West South Central
+3433396155,Never,,,,,,,,,Male,55,75000,Some college or Associate degree,South Atlantic
+3433387742,Once a month or less,"5'10""",Everyone in the row should have some say,No  not rude at all,No  not at all rude,No  not rude at all,No  not at all rude,No  not at all rude,No,Male,30,125000,Bachelor degree,Mountain
+3433383009,Once a year or less,"5'9""",The person in the window seat should have exclusive control,No  not rude at all,No  not at all rude,No  not rude at all,Yes  somewhat rude,No  not at all rude,No,Male,59,35000,Bachelor degree,East North Central
+3433381681,Once a month or less,"5'9""",Everyone in the row should have some say,No  not rude at all,No  not at all rude,No  not rude at all,No  not at all rude,No  not at all rude,No,Male,75,75000,Bachelor degree,East South Central
+3433379314,Once a year or less,"6'5""",The person in the window seat should have exclusive control,No  not rude at all,Yes  somewhat rude,Yes  very rude,No  not at all rude,No  not at all rude,No,Male,75,75000,Bachelor degree,West North Central
+3433372314,Once a year or less,"5'11""",Everyone in the row should have some say,No  not rude at all,No  not at all rude,No  not rude at all,No  not at all rude,No  not at all rude,No,Male,65,75000,Some college or Associate degree,West North Central
+3433370920,Once a year or less,"6'2""",Everyone in the row should have some say,No  not rude at all,Yes  somewhat rude,Yes  somewhat rude,No  not at all rude,No  not at all rude,No,Male,33,125000,Graduate degree,East North Central
