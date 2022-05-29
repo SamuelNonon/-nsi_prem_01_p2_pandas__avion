@@ -9,104 +9,106 @@
 **Modules tiers utilisés :**
 - Pygame 
 - PyQt5 
-- os 
+- Os 
 - Random 
 - Json 
 - Time 
 - Threading
+- Sys
 
 **Objectif du projet :** 
 
-    1. Etudier à travers un tableau statistique le confort des passagers américains en avion. 
+    1. Comprendre le fonctionnement des règles du jeu de la vie et s'approprier les fonctions conçu à l'avance. 
 
-    2. Créer une interface graphique pour faciliter la compréhension 
-       de ceux qui souhaitent travailler sur ce tableau de données.
-
-> Nota : Nous avons réduit l'échatillon initial pour manipuler les données plus facilement. A l'origine il y avait environ 2000 lignes, nous en avons gardé 100. Nous avons fait de même pour les colonnes. Nous en avons gardé une vingtaine sur les quarantes initiales. 
+    2. Créer une animation à l'aide de fonction pré-établi et des règles du jeu de la vie. 
 
 ##
 
 **Mission des membres impliqués dans le projet :**
 
-*Quentin :* En charge de la recherche du tableau et de la recherche des différents filtres à appliquer. 
+*Quentin :* En charge de la recherche des images à coder / Codage des figures / Implémentation de la musique dans les différentes fonctions.
 
-*Lucas :* En charge du developpement sur python des filtres donnés précédement. 
-(Cette tâche s'est finalement effectuée avec Quentin). 
-
-*Samuel :* En charge de l'interface graphique. 
+*Lucas :* En charge du codage des figures / Résolution des différents bugs / Réalisation du rendu final (en accord avec le rythme de la musique). 
 
 ***
 
 ## Description précise du programme / Difficultés rencontrées 
 
-*Le programme présent sur GitHub est l'épicentre de notre projet. Ce code nous a permis de structurer tous nos filtres en python. Ce sont des lignes de codes assez répétitives. Elle permettent cependant de mieux comprendre les données du tableau.* 
+*Les fichiers présents sur GitHub représente l'ensemble de notre travail. Pour une meilleur compréhension, nous avons décidé de ranger les fichiers en deux catgéorie : *
 
-### Détail précis d'une fonction
+    1- Figures codés : Fichiers avec le codage des figures présentés. 
+    2- Fonctions nécessaires : Fichiers avec le codage des fonctions principales et complémentaires. 
 
-    1. On appelle le tableau depuis l'endroit où il est enregistré 
+### Détail précis des modifications des différents fichiers 
+
+    1. jdlv_model.py : Aucun ajout. 
+##
+    2. jdlv_qrc.py : Aucun ajout.
+##
+    3. jdlv.qrc : Aucun ajout.
+##
+    4. jdlv_ui : Aucun ajout.
+## 
+    5. jdlv_rc.py : Aucun ajout.
+##
+    6. jdlv_other_functions.py : Aucun ajout. 
+##
+    7. jdlv_main.py : Aucun ajout. 
+##
+    8. jdlv_vue_fromUi.py : Aucun ajout.
+##
+    9. jdlv_my_tools.py : 
+- Import des différents fichiers comprenant les images codés. 
+- Ajout de 5 fonctions permenttant d'animer le projet sur la grille PyQt5. 
+
+##
+    10. jdlv_vue.py : Aucun ajout. 
+##
+    11. jdlv_data.py :
+- Ajout des différentes couleurs necessaires à la reproduction des figures présentées
+
+##
+    12. jdlv_outil.py : 
+
+- Remplacement de la couleur "red" dans la fonction revive_case (case) par "grey"
     
-    2. A partir d'une colonne, on selectionne certains mots clés présents dans celle-ci. 
-       Par exemple pour la colonne "Fréquence utilisation avion"on choisit de prendre 
-       seulement les personnes qui voyagent une fois ou moins souvent dans l'année 
-       "Once a year or less".
-       
-    3. On renomme notre masque de départ pour pouvoir l'exploiter avec une autre colonne 
-    
-    4. A partir du nouveau nom donné à notre filtre, 
-       on l'ajoute à une autre colonne et on demande à python de faire soit : 
-       Un graphique circulaire, une moyenne, un historiogramme, etc...
-    5. On renvoit une phrase pour donner le résultat 
-       (cette phrase est normalement provisoire, en attente de l'interface graphique)
+- Ajout de la fonction play_music () ainsi que du module Pygame. Cette fonction permet d'initiliser la musique qui sera ensuite traité dans le fichier jdlv_controleur.py 
 
 ##
 
+    13. jdlv_controleur.py : 
 
-### Présentation des filtres (pramètres d'entrées) : 
+- Ajout de la fonction play_music () dans la fonction action_pb_play_pause_clicked aisni que du module pygame (pygame.mixer.music.play) qui permet de jouer la musique quand on clique sur le bouton play. 
 
-> Nota : Nous travaillons sur 5 fréquences différentes : Never / Once a year or less /  Once a month or less / A few times per week 
-> / Every day
-> 
-> Quand la mention (fréquence) apparait, cela signifie que nous avons traité les 5 possibilités qui s'offraient à nous
-
-*Pour chaque filtres effectuer nous cherchons à savoir si il existe des corrélation ou des causalité entre les différentes variables misent en commun*
-
-- Filtre "Age" en fonction de la "fréquence d'utilisation de l'avion"
-  - On souhaite connaitre quelle tranche d'âge est la plus susceptible de prendre l'avion 
-
-- Filtre "Revenu du ménage" en fonction de la "fréquence d'utilisation de l'avion" 
-  - On souhaite connaitre quelle est le revenu moyen de ceux qui empruntent (fréquence) l'avion  
-
-- Filtre "Diplôme" en fonction de la "fréquence d'utilisation de l'avion" 
-  - On souhaite connaitre quel est le diplome de ceux qui empruntent (fréquence) l'avion 
-
-- Filtre "Emplacement (region de recensement)" en fonction de la "fréquence d'utilisation de l'avion" 
-  - On souhaite connaitre l'emplacement moyen de ceux qui empruntent (fréquence) l'avion
-
-- Filtre "Age" en fonction de "l'utilisation ou non d'un appareil éléctronique lors des phases critiques de vol"
-  - On souhaite connaitre la moyenne d'âge des personnes qui ne respectent pas les consignes de sécurité lors d'un vol 
-
-- Filtre "Emplacement (region de recensement)" en fonction de "l'utilisation ou non d'un appareil éléctronique lors des phases critiques de vol"
-  - On souhaite connaitre l'emplacement moyen des personnes qui ne respectent pas les consignes de sécurité lors d'un vol
-
-- Filtre "Revenu du ménage" en fonction de "l'utilisation ou non d'un appareil éléctronique lors des phases critiques de vol"
-  - On souhaite connaitre le revenu moyen des personnes qui ne respectent pas les consignes de sécurité lors d'un vol
-
-- Filtre "Revenu du ménage" en fonction de "Qui devrait avoir le contrôle du hublot ?" 
-  - On souhaite savoir si l'argent peut avoir un impact sur les décisions des passagers durant un vol.
-
-- Filtre "Revenu du ménage" en fonction de "Est-il imprudent de s'installer sur un siège invendu en avion" 
-  - On souhaite savoir si l'argent peut avoir un impact sur les décisions des passagers durant un vol.
-
-- Filtre "Quelle taille mesurez-vous ?" en fonction de "Est-il impoli d'incliner son siège en avion" 
-  - On souhaite savoir si la taille a un impact la compréhension des passagers par rapport à une personne qui inclinerait fortement son siège 
-
-- Filtre "Emplacement(region de recensement)"  en fonction "Est-il impoli de parler dans une conversation à l'étranger assis à coté de vous" 
-  - On souhaite savoir si la région d'origine du passager à un impact sur son humeur et sur son caractère de sociabilité 
-
-- Filtre "Age" en fonction "En general, est-il impoli d'amener un bébé en avion" 
-  - On souhaite savoir si l'âge des passagers à un impact sur la compréhension d'amener un enfant en avion.
+- Changement de la variable apply_game_or_life_rules par scene_1 dans la fonction action_pb_play_pause_clicked. 
 
 ##
+    14. plan_planisphere_individuel.py : Fichier avec les 14 fonctions correspondant aux 14 parties du monde. 
+##
+    15. plan_planisphere_global : Fichier avec la fonction permettant d'afficher le planisphere global. 
+##
+    16. plan_france_individuel : Fichier avec les 7 fonctions correspondant aux 7 parties de la France. 
+##
+    17. plan_france_global : Fichier avec la fonction permettant d'afficher la France en entier 
+##
+    18. plan_moto_position1 : Fichier avec la focntion correspondant à la moto avec la fumée collé au pot d'échappement 
+##
+    19. plan_moto_position2 : Fichier avec la focntion correspondant à la moto avec la fumée détachée du pot d'échappement
+##
+    20. plan_moto_position3 : Fichier avec la focntion correspondant à la moto sans fumée derrière le pot d'échappement
+##
+    21. plan_arc_de_triomphe : Fichier avec la fonction permettant d'afficher l'arc de triomphe 
+
+### Détail précis des fonctions 
+
+## Fonctions permettant de coder les images
+grid = clean_grid (grid)
+--> Permet d'effacer la figure précédente et de commencer sur une grille vierge sans passer par la fonction clean_grid (grid) 
+
+cases [i + 4] [j + 39] ['s'] = life_status
+cases [i + 4] [j + 39] ['c'] = color
+--> Les deux lignes permettent de coder le pixel en fonction de ses coordonnées sur l'axe horizontal et vertical. Elles permettent également d'indiquer la couleur de la case. 
+
 
 ### Difficultés rencontrées lors du projet : 
 
