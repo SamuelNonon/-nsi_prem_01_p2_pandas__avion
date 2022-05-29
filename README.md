@@ -1,14 +1,19 @@
-# Le confort en avion 
+# Jeu de la vie  
 
 ## Description succinte du projet / Informations clés 
 
-**Noms et prénoms des membres du projet :** Lucas Guillen, Quentin Henri et Samuel Nonon 
+**Noms et prénoms des membres du projet :** Lucas Guillen, Quentin Henri 
 
-**Nom du projet :** Le confort en avion 
+**Nom du projet :** Jeu de la vie 
 
 **Modules tiers utilisés :**
-- Pandas 
-- Matplotlib 
+- Pygame 
+- PyQt5 
+- os 
+- Random 
+- Json 
+- Time 
+- Threading
 
 **Objectif du projet :** 
 
@@ -105,7 +110,7 @@
 
 ### Difficultés rencontrées lors du projet : 
 
-Il y a eu un manque de coordination entre les différents membres du groupe, ce qui a malheuresement mis de côté une partie du travail. Il y a eu quelques difficultés sur le code python au départ mais désormais tout les légers bugs sont corrigés. Il ne reste que l'interface graphique à faire. 
+Le codage des différentes figures s'est avéré très chronophage. Nosu avons du redimensionner nos ambition au corus de notre projet. Notre idée initiale étant trop complexe à réaliser, nous avons choisi de présenter nos différents monuments puis de mettre en place le jeu de la vie. 
 
 *Auteurs :* Lucas Guillen et Quentin Henri 1-01 
 
